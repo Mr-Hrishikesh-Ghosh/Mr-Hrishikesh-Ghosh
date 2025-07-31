@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-hrishikesh-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-hrishikesh-ghosh" /> </p>
 
-- 🌱 I’m currently learning **Python, C, HTML & CSS**
+- 🌱 I’m currently learning **Python, HTML & CSS**
 
-- 💬 About Me **🎓 Computer Science Engineering student at Maulana Abul Kalam Azad University of Technology, West Bengal | 💻 Skilled in Python, C, HTML & CSS | 🚀 Passionate about coding and turning ideas into reality | 🧩 Thrive on problem-solving, creativity, and clear communication | 🌱 Always learning, adapting, and collaborating to make a positive impact.**
+- 💬 About Me **🎓 Computer Science Engineering student at Maulana Abul Kalam Azad University of Technology, West Bengal | 💻 Skilled in Python, HTML & CSS | 🚀 Passionate about coding and turning ideas into reality | 🧩 Thrive on problem-solving, creativity, and clear communication | 🌱 Always learning, adapting, and collaborating to make a positive impact.**
 
 - 📫 How to reach me **hrishikeshghosh2004@gmail.com**
 
