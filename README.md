@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/46fd70d2-d22f-4bf1-b3d8-ef0810f4a0ba)
 <h1 align="center">Hi 👋, I'm Hrishikesh Ghosh</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Learning Python, C, HTML & CSS | From India</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Python, Java, HTML, CSS, JavaScript, Mysql | From India</h3>
 
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/50059cfb-7001-491f-980f-7bbe1a579dcb">
 
